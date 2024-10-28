@@ -2,7 +2,7 @@ require 'net/http'
 require 'json'
 require 'csv'
 
-API_KEY = '44fd163e868685399a44a7fe'  # Замініть на свій реальний API-ключ
+API_KEY = '44fd163e868685399a44a7fe'  
 BASE_URL = 'https://v6.exchangerate-api.com/v6/'
 
 # Отримання курсів валют для вибраної базової валюти
