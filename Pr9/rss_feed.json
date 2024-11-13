@@ -1,0 +1,281 @@
+[
+  {
+    "title": "Hacker News",
+    "link": "https://news.ycombinator.com/",
+    "description": "Links for the intellectually curious, ranked by readers.",
+    "items": [
+      {
+        "title": "No GPS required: our app can now locate underground trains",
+        "link": "https://blog.transitapp.com/go-underground/",
+        "date": "Wed, 13 Nov 2024 01:46:20 +0000"
+      },
+      {
+        "title": "We Built a Self-Healing System to Survive a Concurrency Bug at Netflix",
+        "link": "https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug",
+        "date": "Fri, 08 Nov 2024 14:52:48 +0000"
+      },
+      {
+        "title": "80286 ATX mainboard based on the IBM 5170 AT PC",
+        "link": "https://github.com/rodneyknaap/atx-286at-v1-mainboard",
+        "date": "Wed, 13 Nov 2024 03:34:57 +0000"
+      },
+      {
+        "title": "Bypassing regulatory locks, hacking AirPods and Faraday cages",
+        "link": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking",
+        "date": "Tue, 12 Nov 2024 18:50:45 +0000"
+      },
+      {
+        "title": "Unusual Raku Features",
+        "link": "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/",
+        "date": "Tue, 12 Nov 2024 21:48:05 +0000"
+      },
+      {
+        "title": "3600 MHz Raspberry Pi 5 with Liquid Nitrogen",
+        "link": "https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/",
+        "date": "Tue, 12 Nov 2024 22:18:43 +0000"
+      },
+      {
+        "title": "PgPDF: Pdf Type and Functions for Postgres",
+        "link": "https://github.com/Florents-Tselai/pgpdf",
+        "date": "Wed, 06 Nov 2024 10:39:44 +0000"
+      },
+      {
+        "title": "Show HN: Stretch My Time Off – An Algorithm to Optimize Your Vacation Days",
+        "link": "https://stretchmytimeoff.com",
+        "date": "Tue, 12 Nov 2024 18:11:49 +0000"
+      },
+      {
+        "title": "A mistake that killed Japan's software industry? (2023)",
+        "link": "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/",
+        "date": "Thu, 07 Nov 2024 16:08:15 +0000"
+      },
+      {
+        "title": "Show HN: Proxmox VE Helper Scripts",
+        "link": "https://community-scripts.github.io/ProxmoxVE/",
+        "date": "Tue, 12 Nov 2024 18:37:17 +0000"
+      },
+      {
+        "title": "Argentinian Farmer Finds Family of 20k-Year-Old Car-Sized Armadillos",
+        "link": "https://allthatsinteresting.com/glyptodon-fossils",
+        "date": "Sat, 09 Nov 2024 04:01:29 +0000"
+      },
+      {
+        "title": "Thinking about recipe formats more than anyone should",
+        "link": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/",
+        "date": "Wed, 06 Nov 2024 17:57:55 +0000"
+      },
+      {
+        "title": "Artificial Intelligence, Scientific Discovery, and Product Innovation [pdf]",
+        "link": "https://aidantr.github.io/files/AI_innovation.pdf",
+        "date": "Tue, 12 Nov 2024 13:29:30 +0000"
+      },
+      {
+        "title": "Show HN: Jelly – A simpler shared inbox for small teams",
+        "link": "https://letsjelly.com/",
+        "date": "Tue, 12 Nov 2024 19:55:45 +0000"
+      },
+      {
+        "title": "Coffee, sandwiches, underwear, beer: a day in the life of Japan's konbini",
+        "link": "https://www.theguardian.com/world/2024/nov/08/coffee-sandwiches-underwear-beer-day-in-the-life-japan-konbini-stores",
+        "date": "Fri, 08 Nov 2024 14:30:44 +0000"
+      },
+      {
+        "title": "Avremu: An 8-Bit AVR Microcontroller Simulator Written in LaTeX",
+        "link": "https://gitlab.brokenpipe.de/stettberger/avremu/tree/master",
+        "date": "Tue, 12 Nov 2024 00:58:54 +0000"
+      },
+      {
+        "title": "Two upstart search engines are teaming up to take on Google",
+        "link": "https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/",
+        "date": "Tue, 12 Nov 2024 12:27:52 +0000"
+      },
+      {
+        "title": "Show HN: Open-source Kibana alternative for logs and traces in ClickHouse",
+        "link": "https://github.com/hyperdxio/hyperdx/tree/v2",
+        "date": "Tue, 12 Nov 2024 18:04:19 +0000"
+      },
+      {
+        "title": "Burial chamber of an ancient Egyptian priestess is discovered after 4k years",
+        "link": "https://www.dailymail.co.uk/sciencetech/article-14048371/burial-chamber-ancient-Egyptian-priestess-coffin.html",
+        "date": "Thu, 07 Nov 2024 19:13:57 +0000"
+      },
+      {
+        "title": "Visualizing World War II",
+        "link": "https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/",
+        "date": "Mon, 11 Nov 2024 21:28:28 +0000"
+      },
+      {
+        "title": "OpenAI and others seek new path to smarter AI as current methods hit limitations",
+        "link": "https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/",
+        "date": "Wed, 13 Nov 2024 09:27:33 +0000"
+      },
+      {
+        "title": "How I ship projects at big tech companies",
+        "link": "https://www.seangoedecke.com/how-to-ship/",
+        "date": "Mon, 11 Nov 2024 22:30:26 +0000"
+      },
+      {
+        "title": "Russian family lived alone in the Siberian wilderness for 40 years (2013)",
+        "link": "https://www.smithsonianmag.com/history/this-russian-family-lived-alone-in-the-siberian-wilderness-for-40-years-unaware-of-world-war-ii-or-the-moon-landing-7354256/",
+        "date": "Tue, 12 Nov 2024 20:13:08 +0000"
+      },
+      {
+        "title": "Carving your space",
+        "link": "https://heather-buchel.com/blog/2024/11/carving-space/",
+        "date": "Tue, 12 Nov 2024 22:08:34 +0000"
+      },
+      {
+        "title": "Revealing causal links in complex systems: New algorithm shows hidden influences",
+        "link": "https://techxplore.com/news/2024-10-revealing-causal-links-complex-algorithm.html",
+        "date": "Tue, 05 Nov 2024 21:00:54 +0000"
+      },
+      {
+        "title": "The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture",
+        "link": "https://ankush.dev/p/neumann_architecture",
+        "date": "Tue, 12 Nov 2024 04:31:26 +0000"
+      },
+      {
+        "title": "Leaving and Waving",
+        "link": "https://deannadikeman.com/leaving-and-waving",
+        "date": "Tue, 12 Nov 2024 05:44:58 +0000"
+      },
+      {
+        "title": "Nowadays (YC S23) Is Hiring",
+        "link": "https://news.ycombinator.com/item?id=42119674",
+        "date": "Tue, 12 Nov 2024 21:00:40 +0000"
+      },
+      {
+        "title": "Tinfoil.com – Dedicated to the preservation of early recorded sounds",
+        "link": "http://tinfoil.com/",
+        "date": "Mon, 11 Nov 2024 22:41:33 +0000"
+      },
+      {
+        "title": "Ohmaps: your image montage is a resistor network",
+        "link": "https://hunsley.io/posts/2024/image-montage-is-resistor-network/",
+        "date": "Tue, 12 Nov 2024 12:44:03 +0000"
+      }
+    ]
+  },
+  {
+    "title": "NYT > Top Stories",
+    "link": "https://www.nytimes.com",
+    "description": "",
+    "items": [
+      {
+        "title": "At Mar-a-Lago, Elon Musk Puts His Imprint on the Trump Transition",
+        "link": "https://www.nytimes.com/2024/11/13/us/politics/musk-trump-transition-mar-a-lago.html",
+        "date": "Wed, 13 Nov 2024 10:03:46 +0000"
+      },
+      {
+        "title": "Trump Taps Elon Musk and Vivek Ramaswamy to Lead ‘Dept. of Government Efficiency’",
+        "link": "https://www.nytimes.com/2024/11/12/us/politics/elon-musk-vivek-ramaswamy-trump.html",
+        "date": "Wed, 13 Nov 2024 02:47:27 +0000"
+      },
+      {
+        "title": "Trump Picks Pete Hegseth, a Veteran and Fox News Host, for Defense Secretary",
+        "link": "https://www.nytimes.com/2024/11/12/us/politics/pete-hegseth-defense-secretary-trump.html",
+        "date": "Wed, 13 Nov 2024 01:05:10 +0000"
+      },
+      {
+        "title": "Once They Were Neocons. Now Trump’s Foreign Policy Picks Are All ‘America First.’",
+        "link": "https://www.nytimes.com/2024/11/12/us/politics/trump-foreign-policy-neocons-america-first.html",
+        "date": "Wed, 13 Nov 2024 02:34:35 +0000"
+      },
+      {
+        "title": "Trump’s Department for ‘Drastic Change,’ and the Race for Senate Leadership",
+        "link": "https://www.nytimes.com/2024/11/13/podcasts/trump-musk-senate.html",
+        "date": "Wed, 13 Nov 2024 11:01:34 +0000"
+      },
+      {
+        "title": "Republicans and Democrats Highly Divided in Economic Outlook Under Trump",
+        "link": "https://www.nytimes.com/2024/11/13/business/economy/consumer-sentiment-trump.html",
+        "date": "Wed, 13 Nov 2024 11:11:21 +0000"
+      },
+      {
+        "title": "Aid Deliveries to Gaza Remain Low Despite U.S. Warning to Israel",
+        "link": "https://www.nytimes.com/2024/11/13/world/middleeast/gaza-aid-us-israel.html",
+        "date": "Wed, 13 Nov 2024 10:36:30 +0000"
+      },
+      {
+        "title": "U.S. to Keep Sending Arms to Israel Despite Dire Conditions in Gaza",
+        "link": "https://www.nytimes.com/2024/11/12/us/politics/israel-weapons-gaza-aid.html",
+        "date": "Wed, 13 Nov 2024 01:47:07 +0000"
+      },
+      {
+        "title": "2024 Fossil Fuel Emissions Are Headed for a Record",
+        "link": "https://www.nytimes.com/2024/11/12/climate/fossil-fuel-emissions-2024-record.html",
+        "date": "Wed, 13 Nov 2024 07:33:05 +0000"
+      },
+      {
+        "title": "Stand-Up, Drama and Spambots: The Creative World Takes On A.I.",
+        "link": "https://www.nytimes.com/2024/11/13/technology/ai-comedy-museums-plays.html",
+        "date": "Wed, 13 Nov 2024 10:00:52 +0000"
+      },
+      {
+        "title": "Crypto Industry Lobbies Trump and His Allies After Election Wins",
+        "link": "https://www.nytimes.com/2024/11/13/technology/trump-crypto-bitcoin.html",
+        "date": "Wed, 13 Nov 2024 10:02:41 +0000"
+      },
+      {
+        "title": "City Council Expected to Pass Bill That Shifts Broker Fees to Landlords",
+        "link": "https://www.nytimes.com/2024/11/13/nyregion/new-york-city-broker-fee-city-council.html",
+        "date": "Wed, 13 Nov 2024 08:00:17 +0000"
+      },
+      {
+        "title": "Small Streamers Like Hallmark+ and BritBox See Subscribers Surge",
+        "link": "https://www.nytimes.com/2024/11/13/business/media/hallmark-britbox-streaming-growth.html",
+        "date": "Wed, 13 Nov 2024 10:01:44 +0000"
+      },
+      {
+        "title": "How to Talk About Fluoride, Vaccines and Raw Milk",
+        "link": "https://www.nytimes.com/2024/11/13/opinion/vaccines-fluoride-raw-milk.html",
+        "date": "Wed, 13 Nov 2024 10:02:45 +0000"
+      },
+      {
+        "title": "Climate Science Can’t Keep Up With the Warming Planet",
+        "link": "https://www.nytimes.com/2024/11/13/opinion/climate-change-heat-planet.html",
+        "date": "Wed, 13 Nov 2024 10:02:52 +0000"
+      },
+      {
+        "title": "Trump Called His Win a ‘Historic Realignment’ of American Politics. We Have Our Doubts.",
+        "link": "https://www.nytimes.com/2024/11/13/opinion/trump-republicans-realignment.html",
+        "date": "Wed, 13 Nov 2024 10:03:06 +0000"
+      },
+      {
+        "title": "Wishful Thinking on Abortion Politics",
+        "link": "https://www.nytimes.com/2024/11/13/briefing/wishful-thinking-on-abortion-politics.html",
+        "date": "Wed, 13 Nov 2024 11:41:34 +0000"
+      },
+      {
+        "title": "Jordan Klepper Isn’t Wild About the ‘First Buddy,’ Elon Musk",
+        "link": "https://www.nytimes.com/2024/11/13/arts/television/jordan-klepper-elon-musk.html",
+        "date": "Wed, 13 Nov 2024 06:24:20 +0000"
+      },
+      {
+        "title": "A Former Harrods Employee Accuses Al-Fayed of Trafficking and Says His Brother Knew",
+        "link": "https://www.nytimes.com/2024/11/12/world/europe/fayed-harrods-sexual-assault.html",
+        "date": "Tue, 12 Nov 2024 20:30:22 +0000"
+      },
+      {
+        "title": "Jack Teixeira Sentenced to 15 Years in Leaked Documents Case",
+        "link": "https://www.nytimes.com/2024/11/12/us/politics/jack-teixeira-national-security-leak.html",
+        "date": "Wed, 13 Nov 2024 01:14:27 +0000"
+      },
+      {
+        "title": "A Man Was Missing for Months. Investigators Say He Faked His Death.",
+        "link": "https://www.nytimes.com/2024/11/12/us/kayaker-faked-death-wisconsin.html",
+        "date": "Wed, 13 Nov 2024 11:02:02 +0000"
+      },
+      {
+        "title": "Amtrak Says Service Between New York and New Haven Will Return in Afternoon",
+        "link": "https://www.nytimes.com/2024/11/13/nyregion/amtrak-service-fire-nyc-new-haven.html",
+        "date": "Wed, 13 Nov 2024 11:11:21 +0000"
+      },
+      {
+        "title": "The Curious Case of Nora Holt, a Pioneer of Black Classical Music and Jazz",
+        "link": "https://www.nytimes.com/2024/11/12/arts/music/nora-holt-black-classical-music.html",
+        "date": "Wed, 13 Nov 2024 04:58:13 +0000"
+      }
+    ]
+  }
+]
